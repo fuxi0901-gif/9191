@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install *)",
+      "Bash(python3 -c ' *)",
+      "Bash(c:/Users/30599/python-sdk/python3.13.2/python.exe -c ' *)"
+    ]
+  }
+}

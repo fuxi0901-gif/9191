@@ -1,0 +1,12 @@
+venv/
+frontend/node_modules/
+frontend/dist/
+backend/__pycache__/
+backend/chroma_db/
+backend/uploaded_files/
+backend/*.db
+rag_system/__pycache__/
+*.pyc
+__pycache__/
+.git/
+*.tmp
